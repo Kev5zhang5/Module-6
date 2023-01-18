@@ -1,0 +1,45 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+6,Palana,RU,253.95,broken clouds,59.1167,159.9667,Общежитие пед. колледжа
+34,Qaanaaq,GL,246.38,overcast clouds,77.484,-69.3632,Hotel Qaanaaq
+47,Verkhnyaya Balkariya,RU,259.66,scattered clouds,43.1279,43.4573,Караван (гостиничный двор)
+51,Tuktoyaktuk,CA,237.15,few clouds,69.4541,-133.0374,Hunter's B&B
+68,Zhigansk,RU,238.58,overcast clouds,66.7697,123.3711,ИП Пав
+124,Bograd,RU,245.27,clear sky,54.2344,90.8328,Гостиница
+131,Tarko-Sale,RU,234.09,clear sky,64.9225,77.785,Вынгапур
+135,Uinskoye,RU,249.91,overcast clouds,56.8817,56.5813,Гостиный двор
+141,Petropavlovka,RU,257.79,overcast clouds,50.6114,105.3196,Гостиница
+177,Volchansk,RU,258.78,overcast clouds,59.9378,60.081,Гостиница ВМЗ
+224,Okha,RU,252.45,overcast clouds,53.5739,142.9478,Сфера
+256,Iqaluit,CA,246.0,scattered clouds,63.7506,-68.5145,Frobisher Inn
+267,Neryungri,RU,251.54,overcast clouds,56.6709,124.6491,DeLuxe
+296,Lavrentiya,RU,248.51,few clouds,65.5833,-171.0,Фортуна
+320,Fairbanks,US,255.13,scattered clouds,64.8378,-147.7164,Westmark Fairbanks Hotel
+326,Nerchinskiy Zavod,RU,250.56,broken clouds,51.3088,119.61,Аргунь
+336,Tiksi,RU,234.01,overcast clouds,71.6872,128.8694,Арктика
+338,Norman Wells,CA,257.17,light snow,65.282,-126.8329,Yamouri Inn
+360,Brodokalmak,RU,254.76,overcast clouds,55.5748,62.082,кафе-гостиница
+364,Abatskiy,RU,256.44,overcast clouds,56.2875,70.4555,Абат
+369,College,US,255.12,scattered clouds,64.8569,-147.8028,BEST WESTERN PLUS Pioneer Park Inn
+371,Yar-Sale,RU,231.16,broken clouds,66.8333,70.8333,ЯЛЭМД
+405,Hailar,CN,255.97,scattered clouds,49.2,119.7,呼伦贝尔融府商务酒店
+406,Khatanga,RU,238.3,overcast clouds,71.9667,102.5,Хатанга
+424,Seryshevo,RU,256.68,overcast clouds,51.0933,128.3786,Гостиница &quot;Тополек&quot;
+428,Fort Nelson,CA,258.92,mist,58.8053,-122.7002,Fort Nelson Hotel
+435,Ilulissat,GL,249.94,overcast clouds,69.2167,-51.1,Best Western Plus Hotel Ilulissat
+452,Talovaya,RU,257.74,scattered clouds,51.1144,40.73,Аура
+460,Kargasok,RU,234.0,scattered clouds,59.0556,80.8572,Титан
+472,Igrim,RU,257.88,overcast clouds,63.1906,64.4162,Факел
+482,Haines Junction,CA,254.3,overcast clouds,60.7522,-137.5108,Parkside Inn
+504,Orlik,RU,259.38,light snow,52.5178,99.825,Ая ганга
+514,Privolzhye,RU,242.81,few clouds,52.8649,48.6044,Славянская
+544,Zeya,RU,253.15,overcast clouds,53.75,127.2667,Серебряный створ
+549,Kapuskasing,CA,259.2,overcast clouds,49.4169,-82.4331,Travelodge
+550,Alekseyevka,RU,259.06,broken clouds,50.6309,38.6903,Гостиница Тихая Сосна
+578,Bakchar,RU,234.5,scattered clouds,57.0186,82.0711,Кристина
+586,Muravlenko,RU,233.52,clear sky,63.7898,74.523,Е-Отель
+618,Severnyy,RU,258.17,clear sky,50.677,36.5532,Космос
+630,Bredy,RU,251.39,broken clouds,52.4153,60.3411,Колос
+635,Moose Factory,CA,253.15,overcast clouds,51.2585,-80.6094,Cree Village Ecolodge
+708,Anadyr,RU,250.43,clear sky,64.75,177.4833,Гостевой дом
+709,Gornopravdinsk,RU,253.32,overcast clouds,60.05,69.9,Гостинный двор
+726,Sovetskiy,RU,257.82,overcast clouds,61.3614,63.5842,Кировская
